@@ -78,7 +78,7 @@
         
         <div class="colaboradores">
             <img src="img_brian.jpg" alt="Brian Aguinsaca" class="colaboradoresimg"><br>
-            <a href="" target="_blank">Brian Aguinsaca</a>
+            <a href="https://brianfernandoaguinsacaloarte.github.io/MyProfile.github.io/" target="_blank">Brian Aguinsaca</a>
         </div>
         
        </div>
